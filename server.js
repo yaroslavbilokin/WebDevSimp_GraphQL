@@ -23,7 +23,7 @@ const books = [
     { id: 3, name: 'c', authorId: 3 },
     { id: 4, name: 'd', authorId: 2 },
     { id: 5, name: 'e', authorId: 2 },
-    { id: 6, name: 'f', authorId: 1 },
+    { id: 6, name: 'f', authorId: 1 }
 ]
 
 // const schema = new GraphQLSchema({
